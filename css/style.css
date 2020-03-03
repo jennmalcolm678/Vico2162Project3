@@ -1,3 +1,10 @@
+h1 {
+    font-family: 'Caladea', serif;
+    font-size: 25px;
+    text-align: center;
+    color: darkslategray;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
